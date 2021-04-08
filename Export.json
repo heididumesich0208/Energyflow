@@ -165,7 +165,7 @@
         },
         "updatemenus": [
             {
-                "y": 1,
+                "y": 10,
                 "buttons": [
                     {
                         "label": "Light",
