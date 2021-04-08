@@ -180,7 +180,7 @@
                 ]
             },
             {
-                "y": 0.9,
+                "y": 10,
                 "buttons": [
                     {
                         "label": "Thick",
@@ -200,17 +200,17 @@
                     {
                         "label": "Small gap",
                         "method": "restyle",
-                        "args": [ "node.pad", 15 ]
+                        "args": [ "node.pad", 30 ]
                     },
                     {
                         "label": "Large gap",
                         "method": "restyle",
-                        "args": [ "node.pad", 20]
+                        "args": [ "node.pad", 30]
                     }
                 ]
             },
             {
-                "y": 0.7,
+                "y": 10,
                 "buttons": [
                     {
                         "label": "Snap",
@@ -235,7 +235,7 @@
                 ]
             },
             {
-                "y": 0.6,
+                "y": 10,
                 "buttons": [
                     {
                         "label": "Horizontal",
