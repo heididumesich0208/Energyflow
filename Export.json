@@ -157,7 +157,7 @@
             }
         }],
     "layout": {
-        "title": {"text": "Australian Energy Flows<br> Adapted from <a href='https://bost.ocks.org/mike/sankey/'>Mike Bostock's example</a><br>with numerous <a href='https://plotly.com/javascript/'>Plotly</a> features"},
+        "title": {"text": "Australian Energy Flows Exports<br> Adapted from <a href='https://bost.ocks.org/mike/sankey/'>Mike Bostock's example</a><br>with numerous <a href='https://plotly.com/javascript/'>Plotly</a> features"},
         "width": 1118,
         "height": 772,
         "font": {
@@ -251,3 +251,4 @@
             }
         ]
     }
+}
